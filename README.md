@@ -1,2 +1,4 @@
 # IPTV
-IPTV for MY
+My Custom IPTV.
+
+For EPG, please use exodiver EPG (Experimental).
