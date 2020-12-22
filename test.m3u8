@@ -1,25 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/u9uPPgo.jpg" tvg-country="MY" tvg-url="" group-title="",RTM 1
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-language="" tvg-logo="https://i.imgur.com/u9uPPgo.jpg" tvg-country="MY" tvg-url="" group-title="",RTM 1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" tvg-country="MY" tvg-url="" group-title="",RTM 2
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" tvg-country="MY" tvg-url="" group-title="",RTM 2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-#EXTINF:-1 tvg-id="OKEY" tvg-name="OKEY" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-country="MY" tvg-url="" group-title="",RTM Okey
+#EXTINF:-1 tvg-id="Okey.my" tvg-name="OKEY" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-country="MY" tvg-url="" group-title="",RTM Okey
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" tvg-country="MY" tvg-url="" group-title="News",Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
+#EXTINF:-1 tvg-ID="TV3.my" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
 https://exodiver.github.io/IPTV/M3U8/Token/TV3.m3u8|Referer=https://www.dailymotion.com
-#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" tvg-country="MY" tvg-url="" group-title="",NTV7
+#EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" tvg-country="MY" tvg-url="" group-title="",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" tvg-country="MY" tvg-url="" group-title="",8TV
+#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" tvg-country="MY" tvg-url="" group-title="",8TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
-#EXTINF:-1 tvg-id="8TV" tvg-name="TV9" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/NewlogoTV9_%28Malaysia%29.png" tvg-country="MY" tvg-url="" group-title="",TV9
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/NewlogoTV9_%28Malaysia%29.png" tvg-country="MY" tvg-url="" group-title="",TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png" tvg-country="MY" tvg-url="" group-title="",Drama Sangat
+#EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png" tvg-country="MY" tvg-url="" group-title="",Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 
-#EXTINF:-1 tvg-id="Ber.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama
+#EXTINF:-1 tvg-id="AlHijrah.my" tvg-name="AL Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" tvg-chno="8" channel-id="8" group-title="MYSG",AL Hijrah
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=NjEzZTE5ZjQtZjUxZS0zZTMwLWE1NDctN2Q3ZGYxNzFlNjRj
+https://fvtv.mywire.org/dash/tvalhijrah.mpd
+
+
+#EXTINF:-1 tvg-id="Ber.MY" tvg-name="Bernama TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama
 https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://yt3.ggpht.com/a/AATXAJzd2RPKopBOqInaP7TGFkpOzRgbwaApn81UBA" tvg-country="MY" tvg-url="" group-title="Entertainment",Pertiwi TV
@@ -85,6 +91,8 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" tvg-country="SY" tvg-url="" group-title="Kids",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-#EXTINF:-1 tvg-id="NHW.JP" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="Japan",NHK World
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Japan" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="Japan",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" tvg-logo="https://static.epg.best/uk/CBeebies.uk.png" tvg-chno="22" channel-id="22" group-title="MYSG",CBeebies
+http://freeview.mywire.org:9090/streams/cbeebies.m3u8
