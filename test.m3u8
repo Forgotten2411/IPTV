@@ -44,6 +44,9 @@ https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://yt3.ggpht.com/a/AATXAJzd2RPKopBOqInaP7TGFkpOzRgbwaApn81UBA" tvg-country="MY" tvg-url="" group-title="Malaysia",Pertiwi TV
 https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="ChannelNewsAsia.sg" tvg-name="Channel News Asia" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="Singapore",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 
 #EXTINF:-1 tvg-id="Saudi Quran" tvg-name="Saudi Quran" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" tvg-country="SA" tvg-url="" group-title="Two Holy Mosque Live",Al Quran Al Kareem (Mecca)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
