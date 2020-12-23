@@ -76,7 +76,7 @@ https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MB1.SA" tvg-name="MBC 1" tvg-language="Arabic" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" tvg-country="AE" group-title="Arab",MBC 1
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
-#EXTINF:-1 tvg-id="MB2.SA" tvg-name="MBC 2" tvg-language="Arabic" tvg-logo="https://static.epg.best/ae/MBC2.ae.png" tvg-country="AE" group-title="Arab",MBC 2
+#EXTINF:-1 tvg-id="MBC2.SA" tvg-name="MBC 2" tvg-language="Arabic" tvg-logo="https://static.epg.best/ae/MBC2.ae.png" tvg-country="AE" group-title="Arab",MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 #EXTINF:-1 tvg-id="MB3.SA" tvg-name="MBC 3" tvg-language="Arabic" tvg-logo="https://static.epg.best/ae/MBC3.ae.png" tvg-country="AE" group-title="Kids",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
