@@ -116,7 +116,7 @@ http://45.58.139.242:9630/libris/Nickelodeon/chunks.m3u8?nimblesessionid=7384874
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr UK" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Nick_Jr._2009.svg/revision/latest/scale-to-width-down/300?cb=20180722105754" tvg-country="UK" group-title="Kids",Nick Jr UK
 http://geni.ktk.si:49310/dione/nickjr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyMCA5OjI3OjU5IEFNJmhhc2hfdmFsdWU9ZGRienRxMDZsTjBLekE3enpHNlRYUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr UK (Alt)" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Nick_Jr._2009.svg/revision/latest/scale-to-width-down/300?cb=20180722105754" tvg-country="UK" group-title="Kids",Nick Jr UK Opt-2
-
+http://geni.ktk.si:49310/dione/nickjr/chunks.m3u8?nimblesessionid=730169&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyMCA5OjI3OjU5IEFNJmhhc2hfdmFsdWU9ZGRienRxMDZsTjBLekE3enpHNlRYUT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="MOVIES",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
