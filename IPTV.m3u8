@@ -23,9 +23,7 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png" tvg-country="MY" tvg-url="" group-title="Malaysia",Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 
-#EXTINF:-1 tvg-id="AlHijrah.my" tvg-name="AL Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Malaysia",Al Hijrah
-https://fvtv.mywire.org/playlist/nujj7qrkcz-u0wjkpejqa.m3u8
-#EXTINF:-1 tvg-id="AlHijrah.my" tvg-name="AL Hijrah Opt-2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Malaysia",Al Hijrah Opt-2
+#EXTINF:-1 tvg-id="AlHijrah.my" tvg-name="Al Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Malaysia",Al Hijrah
 http://60.51.77.193:9981/stream/channelid/1461859308
 
 #EXTINF:-1 tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
@@ -113,18 +111,12 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" tvg-country="SY" tvg-url="" group-title="Kids",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Japan" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="Japan",NHK World
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-
 #EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids/Animation",Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies UK" tvg-logo="https://static.epg.best/uk/CBeebies.uk.png" group-title="Kids",CBeebies UK
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Kids",Nick Jr US
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="http://static.epg.best/us/WWE.us.png" group-title="MMA",WWE
-https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Movies",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
@@ -138,8 +130,56 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/25177e0a801178d5b705f85f42655107/sh/red-by-hbo.png" group-title="Movies",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-
 #EXTINF:-1 tvg-id="PAR.US" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="Movies",Paramount Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="Movies",Sony Movies Action
 http://51.52.156.22:8888/http/009
+
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Japan" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="Japan",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hoxvBkF.png" group-title="JAPAN",BS Asahi (New!)
+http://203.162.235.41:16914
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TaUGiC.png" group-title="JAPAN",BS Fuji (New!)
+http://203.162.235.41:16911
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F8vUpjV.png" group-title="JAPAN",BS Japan (New!)
+http://203.162.235.41:16915
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UIWO2Jp.png" group-title="JAPAN",BS NTV (New!)
+http://203.162.235.41:16912
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OSxEPYU.png" group-title="JAPAN",BS TBS (New!)
+http://203.162.235.41:16913
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fuwPytF.png" group-title="JAPAN",Fuji TV (New!)
+http://203.162.235.41:16904
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQ8Mpvq.png" group-title="JAPAN",Golf Network (New!)
+http://203.162.235.41:16924
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATIcNOc.png" group-title="JAPAN",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Es2bzNQ.png" group-title="JAPAN",Gunma TV (New!)
+https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" group-title="JAPAN",History
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+#EXTINF:-1 tvg-logo="https://i.imgur.com/967Ud6N.png" group-title="JAPAN",MBS (New!)
+http://203.162.235.41:16910
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="JAPAN",NHK General (New!)
+http://203.162.235.41:16903
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YP30Eir.png" group-title="JAPAN",NHK World Premium (New!)
+http://203.162.235.41:16901
+#EXTINF:-1 tvg-logo="https://i.imgur.com/guVDfBx.png" group-title="JAPAN",NJPW World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxYf9G0.png" group-title="JAPAN",Nippon TV (New!)
+http://203.162.235.41:16905
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jJhXY0I.png" group-title="JAPAN",QVC Japan
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.i.haymarketmedia.asia/?n=finance-asia%2Fcontent%2FBain+Jupiter.png" group-title="JAPAN",Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xz3JwGT.png" group-title="JAPAN",TB (Opt-1) (New!)
+http://main1.mov3.co/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xz3JwGT.png" group-title="JAPAN",TBS (Opt-2) (New!)
+http://203.162.235.41:16907
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" group-title="JAPAN",Tokyo MX 1 (New!)
+https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" group-title="JAPAN",Tokyo MX 2 (New!)
+http://movie.mcas.jp/mcas/smil:mx2_prod.smil/chunklist_b364000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="JAPAN",TV Tokyo (New!)
+http://203.162.235.41:16908
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tYZz5CC.png" group-title="JAPAN",WeatherNews
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
