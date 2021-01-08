@@ -156,7 +156,7 @@ http://79.137.41.99/DisneyChannel/tracks-v1a1/index.m3u8
 http://redcoliptv.com:8090/Miriam12345/Miriam12345/15545?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="BOM.UK" tvg-name="Boomerang UK (Opt-2)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Boomerang_2014.png/revision/latest/scale-to-width-down/770?cb=20150214053855" group-title="Kids",Boomerang UK (Opt-2)
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6651?checkedby:hlscat.com
-EXTINF:-1 tvg-id="CN.US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20190401004340" group-title="Kids",Cartoon Network US
+#EXTINF:-1 tvg-id="CN.US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20190401004340" group-title="Kids",Cartoon Network US
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14387?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Japan" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="Japan",NHK World
