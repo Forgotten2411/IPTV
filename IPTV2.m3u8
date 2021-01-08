@@ -213,5 +213,5 @@ http://redcoliptv.com:8090/Miriam12345/Miriam12345/15653?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="Documentary",Nat Geo Wild (UK)
 http://redcoliptv.com:8090/Miriam12345/Miriam12345/15654?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-name="WWE Network (US)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/WWE_Network_%28Horizontal%29.svg/revision/latest/scale-to-width-down/184?cb=20200925185937group-title="Wrestling",WWE Network (US)
+#EXTINF:-1 tvg-name="WWE Network (US)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/WWE_Network_%28Horizontal%29.svg/revision/latest/scale-to-width-down/184?cb=20200925185937" group-title="Wrestling",WWE Network (US)
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683002?checkedby:hlscat.com
