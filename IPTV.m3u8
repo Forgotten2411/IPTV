@@ -13,7 +13,7 @@ https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b206400
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-ID="TV3.my" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
-https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08rHlOe-qy2eRD6lSXzeVawY)/dm/3/x7a7rpm/s/live-3.m3u8
+https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08rHlOe-qy2eRD6lSXzeVawY)/dm/3/x7a7rpm/s/live-3.m3u8|Referrer:https://www.dailymotion.com
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" tvg-country="MY" tvg-url="" group-title="Malaysia",NTV7
 https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kIrKAi_B6kYUbxK5xITb5M)/dm/3/x7a7rxp/s/live-4.m3u8
 #EXTINF:-1 tvg-id="TV8.my" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" tvg-country="MY" tvg-url="" group-title="Malaysia",8TV
