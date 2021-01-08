@@ -17,8 +17,7 @@ https://exodiver.github.io/IPTV/M3U8/Token/MY/NTV7.m3u8
 https://exodiver.github.io/IPTV/M3U8/Token/MY/8TV.m3u8
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
 https://exodiver.github.io/IPTV/M3U8/Token/MY/TV9.m3u8
-#EXTINF:-1 tvg-id="AlHijrah.my" tvg-name="Al Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Malaysia",Al Hijrah
-https://fvtv.mywire.org/dash/tvalhijrah.mpd
+
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="Malaysia",Astro AEC
