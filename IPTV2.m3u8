@@ -130,60 +130,88 @@ http://51.52.156.22:8888/http/009
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" tvg-country="SY" tvg-url="" group-title="Kids",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids/Animation",Baby First
+#EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids",Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="Baby.TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/BABY_TV_2006.jpg/revision/latest/scale-to-width-down/220?cb=20150308151923" group-title="Kids",Baby TV
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/15528?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="CBeebies.UK" tvg-name="CBeebies UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" group-title="Kids",Cbeebies
 http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-id="NICK.US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest/scale-to-width-down/250?cb=20200621143500" group-title="Kids",Nickelodeon US
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53904?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Kids",Nick Jr US
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Kids",Nick Jr US (Opt-2)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53903?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="NJR.UK" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Kids",Nick Jr UK
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15806?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="NICKTOON.UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Nicktoons_%28Blue%29.svg/revision/latest/scale-to-width-down/300?cb=20190930203840" group-title="Kids",NickToon UK
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/15659?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="NICKTOON.UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Nicktoons_%28Blue%29.svg/revision/latest/scale-to-width-down/300?cb=20190930203840" group-title="Kids",NickToon UK (Opt-2)
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6570?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="DisneyXD.US" tvg-name="Disney XD US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/250?cb=202003201155087" group-title="Kids",Disney XD US
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="DisneyJR.US" tvg-name="Disney JR US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest/scale-to-width-down/1000?cb=20201007202007" group-title="Kids",Disney JR US
 http://79.137.41.99/DisneyChannel/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="BOM.UK" tvg-name="Boomerang UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Boomerang_2014.png/revision/latest/scale-to-width-down/770?cb=20150214053855" group-title="Kids",Boomerang UK
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/15545?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="BOM.UK" tvg-name="Boomerang UK (Opt-2)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Boomerang_2014.png/revision/latest/scale-to-width-down/770?cb=20150214053855" group-title="Kids",Boomerang UK (Opt-2)
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6651?checkedby:hlscat.com
+EXTINF:-1 tvg-id="CN.US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20190401004340" group-title="Kids",Cartoon Network US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14387?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Japan" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="Japan",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hoxvBkF.png" group-title="JAPAN",BS Asahi (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hoxvBkF.png" group-title="Japan",BS Asahi (New!)
 http://203.162.235.41:16914
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5TaUGiC.png" group-title="JAPAN",BS Fuji (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TaUGiC.png" group-title="Japan",BS Fuji (New!)
 http://203.162.235.41:16911
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F8vUpjV.png" group-title="JAPAN",BS Japan (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F8vUpjV.png" group-title="Japan",BS Japan (New!)
 http://203.162.235.41:16915
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UIWO2Jp.png" group-title="JAPAN",BS NTV (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UIWO2Jp.png" group-title="Japan",BS NTV (New!)
 http://203.162.235.41:16912
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OSxEPYU.png" group-title="JAPAN",BS TBS (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OSxEPYU.png" group-title="Japan",BS TBS (New!)
 http://203.162.235.41:16913
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fuwPytF.png" group-title="JAPAN",Fuji TV (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fuwPytF.png" group-title="Japan",Fuji TV (New!)
 http://203.162.235.41:16904
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KQ8Mpvq.png" group-title="JAPAN",Golf Network (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQ8Mpvq.png" group-title="Japan",Golf Network (New!)
 http://203.162.235.41:16924
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ATIcNOc.png" group-title="JAPAN",GSTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATIcNOc.png" group-title="Japan",GSTV
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Es2bzNQ.png" group-title="JAPAN",Gunma TV (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Es2bzNQ.png" group-title="Japan",Gunma TV (New!)
 https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" group-title="JAPAN",History
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" group-title="Japan",History
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
-#EXTINF:-1 tvg-logo="https://i.imgur.com/967Ud6N.png" group-title="JAPAN",MBS (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/967Ud6N.png" group-title="Japan",MBS (New!)
 http://203.162.235.41:16910
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="JAPAN",NHK General (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="Japan",NHK General (New!)
 http://203.162.235.41:16903
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YP30Eir.png" group-title="JAPAN",NHK World Premium (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YP30Eir.png" group-title="Japan",NHK World Premium (New!)
 http://203.162.235.41:16901
-#EXTINF:-1 tvg-logo="https://i.imgur.com/guVDfBx.png" group-title="JAPAN",NJPW World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/guVDfBx.png" group-title="Japan",NJPW World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxYf9G0.png" group-title="JAPAN",Nippon TV (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxYf9G0.png" group-title="Japan",Nippon TV (New!)
 http://203.162.235.41:16905
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jJhXY0I.png" group-title="JAPAN",QVC Japan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jJhXY0I.png" group-title="Japan",QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.i.haymarketmedia.asia/?n=finance-asia%2Fcontent%2FBain+Jupiter.png" group-title="JAPAN",Shop Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.i.haymarketmedia.asia/?n=finance-asia%2Fcontent%2FBain+Jupiter.png" group-title="Japan",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xz3JwGT.png" group-title="JAPAN",TB (Opt-1) (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xz3JwGT.png" group-title="Japan",TB (Opt-1) (New!)
 http://main1.mov3.co/hls/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xz3JwGT.png" group-title="JAPAN",TBS (Opt-2) (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xz3JwGT.png" group-title="Japan",TBS (Opt-2) (New!)
 http://203.162.235.41:16907
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" group-title="JAPAN",Tokyo MX 1 (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" group-title="Japan",Tokyo MX 1 (New!)
 https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" group-title="JAPAN",Tokyo MX 2 (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" group-title="Japan",Tokyo MX 2 (New!)
 http://movie.mcas.jp/mcas/smil:mx2_prod.smil/chunklist_b364000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="JAPAN",TV Tokyo (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="Japan",TV Tokyo (New!)
 http://203.162.235.41:16908
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tYZz5CC.png" group-title="JAPAN",WeatherNews
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tYZz5CC.png" group-title="Japan",WeatherNews
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="Documentary",Nat Geo People UK
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/15653?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="Documentary",Nat Geo Wild (UK)
+http://redcoliptv.com:8090/Miriam12345/Miriam12345/15654?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/WWE_Network_%28Horizontal%29.svg/revision/latest/scale-to-width-down/184?cb=20200925185937group-title="Wrestling",WWE Network (US)
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683002?checkedby:hlscat.com
